@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: ST-Link-V2.1.PcbDoc   2024/1/6  10:55:34
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : ST-Link-V2.1-RoundHoles.TXT
+ASCII SlotHoles File : ST-Link-V2.1-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.305mm)                                           Round             68        PTH        6.43inch (163.38mm)
+T2      24mil (0.6mm)                                             Round             4         PTH        0.15inch (3.81mm)
+T3      28mil (0.7mm)                                             Slot              2         PTH        0.80inch (20.27mm)
+T4      32mil (0.8mm)                                             Slot              2         PTH        0.77inch (19.64mm)
+T5      30mil (0.75mm)                                            Round             2         NPTH       0.23inch (5.78mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              78
+
+Total Processing Time (hh:mm:ss) : 00:00:00

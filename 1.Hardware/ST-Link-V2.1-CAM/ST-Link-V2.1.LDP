@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: E:\ST-Link-V2.1\1.Hardware\ST-Link-V2.1-PRJ\ST-Link-V2.1.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=st-link-v2.1-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=st-link-v2.1-slotholes.txt|DrillLayers=gtl,gbl
