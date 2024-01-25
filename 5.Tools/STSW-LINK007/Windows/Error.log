@@ -1,0 +1,118 @@
+******************* GDI DUMP => Date : Thu Jan 25 20:52:36 2024
+
+ST-Link is not in the DFU mode.
+Please restart it.
+**** End of GDI DUMP ****
+******************* GDI DUMP => Date : Thu Jan 25 20:52:38 2024
+
+ST-Link is not in the DFU mode.
+Please restart it.
+**** End of GDI DUMP ****
+******************* GDI DUMP => Date : Thu Jan 25 20:52:45 2024
+
+Several instances of ST-Link have been detected.
+To avoid any confusion for the firmware upgrade, it is recommended to connect only one ST-Link.
+ST-Link is not in the DFU mode.
+Please restart it.
+**** End of GDI DUMP ****
+******************* GDI DUMP => Date : Thu Jan 25 20:52:47 2024
+
+Several instances of ST-Link have been detected.
+To avoid any confusion for the firmware upgrade, it is recommended to connect only one ST-Link.
+ST-Link is not in the DFU mode.
+Please restart it.
+**** End of GDI DUMP ****
+******************* GDI DUMP => Date : Thu Jan 25 20:52:55 2024
+
+Several instances of ST-Link have been detected.
+To avoid any confusion for the firmware upgrade, it is recommended to connect only one ST-Link.
+ST-Link is not in the DFU mode.
+Please restart it.
+**** End of GDI DUMP ****
+******************* GDI DUMP => Date : Thu Jan 25 20:54:01 2024
+
+No ST-Link device detected.
+Please connect it and then retry.
+**** End of GDI DUMP ****
+******************* GDI DUMP => Date : Thu Jan 25 20:54:07 2024
+
+No ST-Link device detected.
+Please connect it and then retry.
+**** End of GDI DUMP ****
+******************* GDI DUMP => Date : Thu Jan 25 20:55:20 2024
+
+No ST-Link device detected.
+Please connect it and then retry.
+**** End of GDI DUMP ****
+******************* GDI DUMP => Date : Thu Jan 25 20:56:08 2024
+
+No ST-Link device detected.
+Please connect it and then retry.
+**** End of GDI DUMP ****
+******************* GDI DUMP => Date : Thu Jan 25 20:57:05 2024
+
+No ST-Link device detected.
+Please connect it and then retry.
+**** End of GDI DUMP ****
+******************* GDI DUMP => Date : Thu Jan 25 20:57:08 2024
+
+No ST-Link device detected.
+Please connect it and then retry.
+**** End of GDI DUMP ****
+******************* GDI DUMP => Date : Thu Jan 25 20:58:02 2024
+
+No ST-Link device detected.
+Please connect it and then retry.
+**** End of GDI DUMP ****
+******************* GDI DUMP => Date : Thu Jan 25 20:58:04 2024
+
+No ST-Link device detected.
+Please connect it and then retry.
+**** End of GDI DUMP ****
+******************* GDI DUMP => Date : Thu Jan 25 21:00:24 2024
+
+Error getting previous values of parameters (USB max current, volume name).
+ErasePages (0) bad status (0, 5)
+
+**** End of GDI DUMP ****
+******************* GDI DUMP => Date : Thu Jan 25 21:00:32 2024
+
+No ST-Link device detected.
+Please connect it and then retry.
+**** End of GDI DUMP ****
+******************* GDI DUMP => Date : Thu Jan 25 21:00:41 2024
+
+No ST-Link device detected.
+Please connect it and then retry.
+**** End of GDI DUMP ****
+******************* GDI DUMP => Date : Thu Jan 25 21:01:16 2024
+
+No ST-Link device detected.
+Please connect it and then retry.
+**** End of GDI DUMP ****
+******************* GDI DUMP => Date : Thu Jan 25 21:05:13 2024
+
+No ST-Link device detected.
+Please connect it and then retry.
+**** End of GDI DUMP ****
+******************* GDI DUMP => Date : Thu Jan 25 21:08:43 2024
+
+Error after GoToUsbLoader command.
+Ensure the hardware is recent enough for the software.
+Try to restart it.
+**** End of GDI DUMP ****
+******************* GDI DUMP => Date : Thu Jan 25 21:10:28 2024
+
+ErasePages (1) bad status (4)
+
+**** End of GDI DUMP ****
+******************* GDI DUMP => Date : Thu Jan 25 21:21:30 2024
+
+ErasePages (0) bad status (4)
+
+**** End of GDI DUMP ****
+******************* GDI DUMP => Date : Thu Jan 25 21:23:50 2024
+
+No ST-Link device detected.
+Please connect it and then retry.
+**** End of GDI DUMP ****

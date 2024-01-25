@@ -65,5 +65,9 @@ PCB使用1.6板厚，若使用2.0板厚时HDR 2x5P接口卡合会更紧，但工
 
 # 4.固件烧录
 
-固件烧录时需要先使用一个ST-LINK进行固件烧录，固件有**STLinkV2.J16.S4.bin**与**STLinkV2.J28.M18.bin**（推荐）两版。使用[STM32CubeProgrammer](https://www.st.com/zh/development-tools/stm32cubeprog.html)进行烧录，烧录完成后使用USB连接调试器，使用[STSW-LINK007](https://www.st.com/zh/development-tools/stsw-link007.html)工具进行固件升级，升级类型可以选择。
+固件烧录时需要先使用一个ST-LINK进行固件烧录，固件有**STLinkV2.J16.S4.bin**与**STLinkV2.J28.M18.bin**（推荐）两版。
+
+使用[STM32CubeProgrammer](https://www.st.com/zh/development-tools/stm32cubeprog.html)进行烧录，如提示**Failed to read memory**，表示目前芯片有写保护，在配置寄存器中解除保护后再烧写固件即可。
+
+烧录完成后使用USB连接调试器，使用[STSW-LINK007](https://www.st.com/zh/development-tools/stsw-link007.html)工具进行固件升级，升级类型可以选择。
 
