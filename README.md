@@ -1,6 +1,6 @@
 # ST-Link V2.1
 
-# 0.简介
+# 0 简介
 
 ST-Link V2.1使用STM32F103C8T6/CBT6作为主控，二者可以Pin to Pin替换，CBT6的容量更大，可以满足后续固件升级需要，同时该调试器板载虚拟串口。
 
@@ -20,11 +20,11 @@ ST-Link V2.1可以通过HDR 2.54 2x5P接口进行SWD或者JTAG调试。同时附
 
 调试器所有接口均为3.3V电平，USB输入5V使用6V100mA的自恢复保险丝进行保护。板载3.3V使用XC6206，也带有6V100mA的自恢复保险丝，共可以输出100mA。
 
-# 1.原理图
+# 1 原理图
 
 ![ST-Link-V2.1-SCH_page-0001](https://raw.githubusercontent.com/MaxDYi/PicGo/main/202401121103423.jpg)
 
-# 2.PCB
+# 2 PCB
 
 ![image-20240112112532149](https://raw.githubusercontent.com/MaxDYi/PicGo/main/202401121125205.png)
 
@@ -34,7 +34,7 @@ PCB使用双层板设计，面积4.0x1.5cm，仅正面布有元器件。
 
 PCB使用1.6板厚，若使用2.0板厚时HDR 2x5P接口卡合会更紧，但工程费会更贵。
 
-# 3.物料清单
+# 3 物料清单
 
 | Comment          | Description                 | Designator                  | Footprint             | LibRef              | Quantity |
 | ---------------- | --------------------------- | --------------------------- | --------------------- | ------------------- | -------- |
@@ -63,7 +63,7 @@ PCB使用1.6板厚，若使用2.0板厚时HDR 2x5P接口卡合会更紧，但工
 | TYPE-C 2.0  -16P | USB2.0_Type-C_16Pin母座     | USBC1                       | USB-C-SMD_16P         | USB2.0_Type-C_16Pin | 1        |
 | 8MHz             | 2脚无源晶振(谐振器）        | X1                          | OSC-5032-2P           | XTAL-2P             | 1        |
 
-# 4.固件烧录
+# 4 固件烧录
 
 固件烧录时需要先使用一个ST-LINK进行固件烧录，固件有**STLinkV2.J16.S4.bin**与**STLinkV2.J28.M18.bin**（推荐）两版。
 
